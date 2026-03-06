@@ -1,8 +1,6 @@
 
 ---
 
-### **4. task-manager-webapp/README.md**
-
 ```markdown
 # Task Manager WebApp
 
